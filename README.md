@@ -23,7 +23,7 @@ Next is a small competition.
     - Commit your changes
     - Push your changes to your forked repository
     - Verify your commits are signed
-    - You're done 😄!
+    - You're done 😄!!!!
 
 2. Competition Guidelines:
    The winner is getting something from Stephane and Armand.
